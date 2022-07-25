@@ -7,8 +7,8 @@
 <br>
 
 
-- Estou estudando atualmente Html, Css3 e JavaScript
-- Estou treinando para me tornar um desenvolvedor FullStack
+- Estou estudando atualmente HTML, CSS3 e JAVASCRIPT. 📚📚📚
+- Estou treinando para me tornar um desenvolvedor FullStack. 🚀🚀🚀
 
 <br>
 
