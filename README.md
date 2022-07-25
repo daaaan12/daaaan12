@@ -1,5 +1,8 @@
 ### Olá ! Eu sou o Danilo Costa 👋
 
+- Estou estudando atualmente Html, Css3 e JavaScript
+- Estou treinando para me tornar um desenvolvedor FullStack
+
 <div>
   <a href="https://github.com/Daaaan12">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daaaan12&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
