@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Danilo Costa 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=11000&color=1B30FB&lines=Ol%C3%A1!+Eu+sou+o+Danilo+Costa;Seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 <br>
 
