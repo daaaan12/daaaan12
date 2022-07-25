@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Danilo Costa 👋
 
-<>
+☕
 - Estou estudando atualmente HTML, CSS3 e JAVASCRIPT. 📚📚📚
 - Estou me preparando para me tornar um desenvolvedor FullStack. 🚀🚀🚀
 
