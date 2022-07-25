@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Danilo Costa 👋
 
 <>
-- Estou estudando atualmente Html, Css3 e JavaScript
-- Estou treinando para me tornar um desenvolvedor FullStack
+- Estou estudando atualmente HTML, CSS3 e JAVASCRIPT.
+- Estou treinando para me tornar um desenvolvedor FullStack.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
