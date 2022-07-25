@@ -1,12 +1,22 @@
 ### Olá ! Eu sou o Danilo Costa 👋
 
-☕
-- Estou estudando atualmente HTML, CSS3 e JAVASCRIPT. 📚📚📚
-- Estou me preparando para me tornar um desenvolvedor FullStack. 🚀🚀🚀
+<br>
+
+<img align="center" alt="Math-pic" height="150" style="border-radius:50px;" src="https://ik.imagekit.io/minhafoto/logocapa4_tFneIgEQI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658756745991">
+
+<br>
+
+
+- Estou estudando atualmente Html, Css3 e JavaScript
+- Estou treinando para me tornar um desenvolvedor FullStack
+
+<br>
+
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-green?style=for-the-badge&logo=true)]()
+
 
 <br>
 <div>
@@ -19,6 +29,7 @@
 
 <br>
   
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline-block"><br/>
@@ -28,3 +39,4 @@
  
 
 </div>
+
