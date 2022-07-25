@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daaaan12&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaaan12&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-  
+<br>  
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
