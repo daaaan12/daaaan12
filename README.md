@@ -4,6 +4,10 @@
 - Estou estudando atualmente Html, Css3 e JavaScript
 - Estou treinando para me tornar um desenvolvedor FullStack
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-green?style=for-the-badge&logo=true)]()
+
 <br>
 <div>
   <a href="https://github.com/Daaaan12">
@@ -15,12 +19,6 @@
 
 <br>
   
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-green?style=for-the-badge&logo=true)]()
-
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline-block"><br/>
