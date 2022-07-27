@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=11000&color=1B30FB&lines=Ol%C3%A1!+Eu+sou+o+Danilo;Seja+bem+vindo!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=11000&color=1B30FB&lines=Ol%C3%A1!+Eu+sou+o+Danilo;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 <br>
 
