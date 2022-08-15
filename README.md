@@ -2,9 +2,7 @@
 
 <br>
 
-<img align="center" alt="Math-pic" height="150" style="border-radius:50px;" src="https://ik.imagekit.io/minhafoto/logocapa4_tFneIgEQI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658756745991">
 
-<br>
 
 
 - Estou estudando atualmente HTML, CSS3 e JAVASCRIPT. 📚📚📚
