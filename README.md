@@ -1,4 +1,4 @@
-   [![Typing SVG]()](https://git.io/typing-svg)
+   [![Typing SVG]()]()
 
 <br>
 
