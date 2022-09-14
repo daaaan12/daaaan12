@@ -5,7 +5,7 @@
 
 
 
-- Estou estudando atualmente HTML, CSS3 e JAVASCRIPT. 📚📚📚
+- Estou estudando atualmente JAVASCRIPT, HTML5 e CSS3. 📚📚📚
 - Estou treinando para me tornar um desenvolvedor FullStack. 🚀🚀🚀
 
 <br>
