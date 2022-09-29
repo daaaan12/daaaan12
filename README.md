@@ -5,7 +5,7 @@
 
 
 
-- Estou estudando atualmente JAVASCRIPT, HTML5 e CSS3. 📚📚📚
+- Estou estudando JAVASCRIPT, HTML5 e CSS3. 📚📚📚
 
 
 <br>
