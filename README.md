@@ -39,6 +39,6 @@
 </div>
   
   
-  .. image:: https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/f2968f61-9330-407f-8773-4873d3eca2dd.png
+image:: https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/f2968f61-9330-407f-8773-4873d3eca2dd.png
     :target: https://wakatime.com/
 
