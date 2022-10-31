@@ -42,3 +42,13 @@
   
 <img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/7b0dcb8f-ca24-4fb0-8c45-129e4499664f.png" />
 
+<br>
+  
+  $.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/0ca5c723-65a6-49ec-b9f0-a1bf4de4bd23.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
