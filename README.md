@@ -41,4 +41,4 @@
   
   <br>
   
-<img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e?style=social.svg" />
+<img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e.svg" />
