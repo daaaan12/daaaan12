@@ -27,7 +27,7 @@
 
 <br>
   
-  [![wakatime](https://wakatime.com/badge/user/ed387bd8-c715-4887-ab85-60765bfcf115/project/01fd1ce0-a905-42c9-a0f9-fca3a2a8336f.svg)](https://wakatime.com/badge/user/ed387bd8-c715-4887-ab85-60765bfcf115/project/01fd1ce0-a905-42c9-a0f9-fca3a2a8336f ?style=social)
+  [![wakatime](https://wakatime.com/badge/user/ed387bd8-c715-4887-ab85-60765bfcf115/project/01fd1ce0-a905-42c9-a0f9-fca3a2a8336f.svg)]
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -41,4 +41,4 @@
   
   <br>
   
-<img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e.svg" />
+<img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e?style=social.svg" />
