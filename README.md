@@ -43,5 +43,7 @@
   
 <img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e.svg" />
   
+  <a href="https://info.flagcounter.com/HRA2"><img src="https://s11.flagcounter.com/count2/HRA2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  
 
  
