@@ -46,7 +46,7 @@
   
 <img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/dd7857d2-a1ce-4f68-881c-c52edfb2156e.svg" />
   
-![](https://komarev.com/ghpvc/?daaaan12=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?suername=daaaan12&color=green)
 
 <a href="https://info.flagcounter.com/9vli"><img src="https://s01.flagcounter.com/countxl/9vli/bg_000000/txt_FFFFFF/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
