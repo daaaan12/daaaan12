@@ -15,7 +15,7 @@
 
 <br>
 <div>
-  <a href="https://github.com/Daaaan12">
+  <a href="https://github.com/daaaan12">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daaaan12&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <br>
   <br>
