@@ -26,7 +26,7 @@
   
   ![wakatime](https://wakatime.com/badge/user/ed387bd8-c715-4887-ab85-60765bfcf115/project/01fd1ce0-a905-42c9-a0f9-fca3a2a8336f.svg)
 
-## Tecnologias que eu uso no meu dia a dia 
+## Tecnologias que eu uso no meu dia a dia  
 
   
   <div style="display: inline-block"><br/>
