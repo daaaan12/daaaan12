@@ -22,9 +22,9 @@
 
 ## Tecnologias que eu uso no meu dia a dia  
 
-<div style="display: inline-block"><br/>
+[<div style="display: inline-block"><br/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</div>
+</div>](url)
 <br>
 
 <img width="600px" src="https://wakatime.com/share/@ed387bd8-c715-4887-ab85-60765bfcf115/9916fecf-59ca-4a79-a808-45b4374b4efc.svg" />
