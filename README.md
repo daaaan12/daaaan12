@@ -1,7 +1,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilooc1516@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-costa-66413a22b/)
-[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-green?style=for-the-badge&logo=true)][(https://portfolio-danilo-react-vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-green?style=for-the-badge&logo=true)](https://portfolio-danilo-react-vercel.app)
 
 
 <br>
